@@ -1,4 +1,4 @@
-const totalCards = 12;
+const totalCards = 18;
 const availableCards = ['♥', '♦', '♣', '♠'];
 let cards = [];
 let selectedCards = [];
